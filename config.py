@@ -1,0 +1,4 @@
+BOT_TOKEN = '225924995:AAEMotnoIuz3MGILY-0BotJ8g-v-HLMuDvY'
+#NEURAL_API_HOST = '52.10.209.44'
+NEURAL_API_HOST = 'http://localhost:5005'
+THIS_HOST = 'http://localhost:5000'
